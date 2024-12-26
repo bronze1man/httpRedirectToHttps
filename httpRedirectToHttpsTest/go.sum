@@ -1,0 +1,6 @@
+github.com/bronze1man/httpRedirectToHttps v0.0.0-20241226111711-f6e4b38eff10 h1:c3NyIpVdTLKDRxc+IGLo4LVY0EHwZO/T/DNdUoa3Whc=
+github.com/bronze1man/httpRedirectToHttps v0.0.0-20241226111711-f6e4b38eff10/go.mod h1:b9QWrypFEQNoYlDjKVxSVSElTiOjD5/Z9CA9wvi5t28=
+golang.org/x/net v0.33.0 h1:74SYHlV8BIgHIFC/LrYkOGIwL19eTYXQ5wc6TBuO36I=
+golang.org/x/net v0.33.0/go.mod h1:HXLR5J+9DxmrqMwG9qjGCxZ+zKXxBru04zlTvWlWuN4=
+golang.org/x/text v0.21.0 h1:zyQAAkrwaneQ066sspRyJaG9VNi/YJ1NfzcGB3hZ/qo=
+golang.org/x/text v0.21.0/go.mod h1:4IBbMaMmOPCJ8SecivzSH54+73PCFmPWxNTLm+vZkEQ=
